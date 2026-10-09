@@ -17,7 +17,9 @@ The main feature is a custom TAB overlay that shows stats like FKDR, Bed Wars st
 
 ## Screenshots
 
-I'll be adding screenshots of the overlay and settings here.
+<img width="2326" height="1242" alt="image" src="https://github.com/user-attachments/assets/1f109801-6b44-4aae-8b1c-4fd9fa38aee3" />
+<img width="2558" height="1394" alt="image" src="https://github.com/user-attachments/assets/a78b2e2d-dfa3-4cfb-a562-32ecee484e8d" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/595845ca-722e-4937-9f75-9f970856b0a9" />
 
 ## How I Use the Hypixel API
 
