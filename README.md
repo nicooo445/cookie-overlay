@@ -1,4 +1,4 @@
-# Cookie Overlay
+# Cookie Client
 
 Cookie Overlay is a Minecraft Forge 1.8.9 mod I've been working on for Hypixel Bed Wars. I started making it because I wanted a cleaner way to see player stats without having to look everyone up separately.
 
